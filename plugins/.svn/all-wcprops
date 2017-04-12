@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/19/trunk/plugins
+END
+delirium_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/plugins/delirium_plugin.py
+END
+order_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/plugins/order_plugin.py
+END
+google_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/plugins/google_plugin.py
+END
+fact_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/fact_plugin.py
+END
+idle_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/idle_plugin.py
+END
+vote_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/vote_plugin.py
+END
+features_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/plugins/features_plugin.py
+END
+rejoinall_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/plugins/rejoinall_plugin.py
+END
+antivipe_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/plugins/antivipe_plugin.py
+END
+quotes_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/plugins/quotes_plugin.py
+END
+python_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/plugins/python_plugin.py
+END
+status_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/plugins/status_plugin.py
+END
+autocomm_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/plugins/autocomm_plugin.py
+END
+dns_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/plugins/dns_plugin.py
+END
+complaint_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/plugins/complaint_plugin.py
+END
+turn_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/turn_plugin.py
+END
+send_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/plugins/send_plugin.py
+END
+info_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/plugins/info_plugin.py
+END
+salam_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/13/trunk/plugins/salam_plugin.py
+END
+plugin_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/16/trunk/plugins/plugin_plugin.py
+END
+time_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/time_plugin.py
+END
+stanza_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/plugins/stanza_plugin.py
+END
+greetz_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/plugins/greetz_plugin.py
+END
+access_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/plugins/access_plugin.py
+END
+disco_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/plugins/disco_plugin.py
+END
+more_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/more_plugin.py
+END
+deadline_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/plugins/deadline_plugin.py
+END
+query_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/plugins/query_plugin.py
+END
+testiq_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/14/trunk/plugins/testiq_plugin.py
+END
+cleaner_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/plugins/cleaner_plugin.py
+END
+roster_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/trunk/plugins/roster_plugin.py
+END
+log_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/plugins/log_plugin.py
+END
+update_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/plugins/update_plugin.py
+END
+muc_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/plugins/muc_plugin.py
+END
+post_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/post_plugin.py
+END
+version_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/plugins/version_plugin.py
+END
+commoff_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/plugins/commoff_plugin.py
+END
+getacc_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/plugins/getacc_plugin.py
+END
+amsg_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/amsg_plugin.py
+END
+trans_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/plugins/trans_plugin.py
+END
+admin_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/plugins/admin_plugin.py
+END
+help_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/plugins/help_plugin.py
+END
+aff_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/plugins/aff_plugin.py
+END
+ping_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/plugins/ping_plugin.py
+END
+invite_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/plugins/invite_plugin.py
+END
+vcard_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/plugins/vcard_plugin.py
+END
+weather_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/plugins/weather_plugin.py
+END
+macro_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/13/trunk/plugins/macro_plugin.py
+END
+horoscope_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/plugins/horoscope_plugin.py
+END
+roulette_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/plugins/roulette_plugin.py
+END
+greetex_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/plugins/greetex_plugin.py
+END
+presence_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/plugins/presence_plugin.py
+END
+regjid_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/plugins/regjid_plugin.py
+END
+sg_plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/plugins/sg_plugin.py
+END
