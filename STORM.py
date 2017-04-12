@@ -497,7 +497,6 @@ def join_groupchat(groupchat=None, nick=DEFAULT_NICK, passw=None):
 
       #?????? ?????? ? ??????? | put the status and status message
         prs.setShow(confstatus[0])
-        prs.setStatus(confstatus[1])
         pres=prs.setTag('x',namespace=xmpp.NS_MUC)
         prs.setTag('c', namespace=xmpp.NS_CAPS, attrs={'node':SVN_REPOS,'ver':BOT_VER['botver']['ver'] %(BOT_VER['rev'])})
         pres.addChild('history',{'maxchars':'0','maxstanzas':'0'})
