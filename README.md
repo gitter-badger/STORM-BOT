@@ -21,11 +21,11 @@
 ##### 2) Arabic command only , but i am working to add english command.
 
 ## HOW TO RUN 
-##### 1) Open config.txt and add your bot acount information + admin acount
+##### 1) Open config.txt and add your bot account information + admin account
 
 ##### 2) Open STORM.py
 
-##### 3) Open admin acount and send your command 
+##### 3) Open admin account and send your command 
 
 ## LICENSE
 
