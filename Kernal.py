@@ -3,6 +3,7 @@
 
 #  Talisman core
 #  Kernal.py
+#  ver 5.2.1
 
 #  DEV BY ALI .B .OTH
 
@@ -60,7 +61,7 @@ INFO = {'start': 0, 'msg': 0, 'prs':0, 'iq':0, 'cmd':0, 'thr':0}
 
 SVN_REPOS = ''
 
-BOT_VER = {'rev': 10, 'botver': {'name': 'STORM', 'ver': 'ver. 5.01-%s ', 'os': 'ST M5 AL' }}
+BOT_VER = {'rev': 10, 'botver': {'name': 'STORM', 'ver': 'ver. 5.2.1-%s ', 'os': 'ST M5 AL' }}
 ################################################################################
 
 COMMANDS = {}
