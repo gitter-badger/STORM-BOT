@@ -14,7 +14,7 @@
 #### 1) python-2.6 or the latest --> http://www.python.org/download/
 ##### Not working on python 3
 
-#### 2) TortoiseSVN-1.6.7 or the lates --> http://www.open.collab.net/downloads/subversion/
+#### 2) TortoiseSVN-1.6.7 or the latest --> http://www.open.collab.net/downloads/subversion/
 
 ## NOTE: 
 ##### 1) STORM is base on Talisman ver 2.1 preXP1 revision 86 source code with some modifications It's response to reply was translated into English.
