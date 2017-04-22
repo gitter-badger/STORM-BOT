@@ -1,7 +1,7 @@
 # STORM-BOT
 ###### Storm bot for jabber server or similar
 
-[![STORM BOT](https://img.shields.io/travis/rust-lang/rust.svg)]()
+[![STORM BOT](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![version](https://img.shields.io/badge/version-5.2.3-green.svg)]()
 [![python](https://img.shields.io/badge/python-2.7-blue.svg)](http://www.python.org/download/)
 [![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-1.6.7-yellowgreen.svg)](http://www.open.collab.net/downloads/subversion/)
