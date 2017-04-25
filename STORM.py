@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#  version 5.2.4(326)
+#  version 5.2.4(332)
 #  DEV BY ALI .B .OTH
 
 import Kernal

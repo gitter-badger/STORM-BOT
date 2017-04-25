@@ -61,7 +61,7 @@ INFO = {'start': 0, 'msg': 0, 'prs':0, 'iq':0, 'cmd':0, 'thr':0}
 
 SVN_REPOS = ''
 
-BOT_VER = {'rev': 10, 'botver': {'name': 'STORM', 'ver': 'ver. 5.2.4(326)-%s ', 'os': 'ST M5 AL' }}
+BOT_VER = {'rev': 10, 'botver': {'name': 'STORM', 'ver': 'ver. 5.2.4(332)-%s ', 'os': 'ST M5 AL' }}
 ################################################################################
 
 COMMANDS = {}
