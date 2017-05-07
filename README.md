@@ -2,12 +2,12 @@
 ###### Storm bot for jabber server or similar
 
 [![STORM BOT](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+[![status](https://img.shields.io/pypi/status/Django.svg)]()
 [![version](https://img.shields.io/badge/version-5.2.4%20(332)-green.svg)]()
 [![python](https://img.shields.io/badge/python-2.7-blue.svg)](http://www.python.org/download/)
 [![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-1.6.7-yellowgreen.svg)](http://www.open.collab.net/downloads/subversion/)
-[![status](https://img.shields.io/pypi/status/Django.svg)]()
 [![windows](https://img.shields.io/badge/windows-tested-brightgreen.svg)]()
-[![linux](https://img.shields.io/badge/linux-not%20tested-lightgrey.svg)]()
+[![linux](https://img.shields.io/badge/linux-Not%20tested-lightgrey.svg)]()
 [![license](https://img.shields.io/npm/l/express.svg)](https://github.com/LinePY/STORM-BOT/blob/ver-5.2/LICENSE)
 
 ## REQUIREMENTS
