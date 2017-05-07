@@ -11,7 +11,7 @@
 [![license](https://img.shields.io/npm/l/express.svg)](https://github.com/LinePY/STORM-BOT/blob/ver-5.2/LICENSE)
 
 ## REQUIREMENTS
-#### 1) python-2.6 or the latest --> http://www.python.org/download/
+#### 1) python-2.7.x --> http://www.python.org/download/
 ##### Not working on python 3
 
 #### 2) TortoiseSVN-1.6.7 or the latest --> http://www.open.collab.net/downloads/subversion/
