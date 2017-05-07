@@ -8,7 +8,7 @@
 [![status](https://img.shields.io/pypi/status/Django.svg)]()
 [![windows](https://img.shields.io/badge/windows-tested-brightgreen.svg)]()
 [![linux](https://img.shields.io/badge/linux-not%20tested-lightgrey.svg)]()
-[![license](https://img.shields.io/npm/l/express.svg)](https://github.com/alosh55/STORM-BOT/blob/master/LICENSE)
+[![license](https://img.shields.io/npm/l/express.svg)](https://github.com/LinePY/STORM-BOT/blob/ver-5.2/LICENSE)
 
 ## REQUIREMENTS
 #### 1) python-2.6 or the latest --> http://www.python.org/download/
@@ -29,10 +29,10 @@
 
 ## LICENSE
 
-#### Copyright 2017 alosh55, Inc.
+#### Copyright 2017 LinePY, Inc.
 
 ##### Licensed under the MIT License , you may not use this file except in compliance with the License. You may obtain a copy of the License at 
 
-##### https://github.com/alosh55/STORM-BOT/blob/master/LICENSE
+##### https://github.com/LinePY/STORM-BOT/blob/ver-5.2/LICENSE
 
-###### ALI .B .OTH
+###### ALI .B .OTH - ORG : LinePY ©
