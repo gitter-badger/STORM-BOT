@@ -1,6 +1,8 @@
 # STORM-BOT
 ###### Storm bot for jabber server or similar
 
+[![Join the chat at https://gitter.im/STORM_BOT/Lobby](https://badges.gitter.im/STORM_BOT/Lobby.svg)](https://gitter.im/STORM_BOT/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![STORM BOT](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![status](https://img.shields.io/pypi/status/Django.svg)]()
 [![version](https://img.shields.io/badge/version-5.2.4%20(332)-green.svg)]()
